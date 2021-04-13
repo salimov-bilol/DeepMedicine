@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Deep Medicine</string>
+    <string name="metrics">Hyperparameters &amp; Metrics</string>
+    <string name="classify_malaria">Classify Images</string>
+    <string name="about_the_project">User Manual</string>
+    <string name="main_text">Deep Medicine</string>
+    <string name="predict">Predict</string>
+    <string name="select_image">Select an image</string>
+    <string name="user_manual">User Manual</string>
+    <string name="_1_launch_the_application">1. Launch the application</string>
+    <string name="first_picture">First Picture</string>
+    <string name="_2_click_classify_images_button">2. Click Classify Images button</string>
+    <string name="second_picture">Second Picture</string>
+    <string name="_3_click_select_image_button_and_select_an_image_from_the_storage">3. Click Select Image button and select an image from the storage</string>
+    <string name="third_picture">Third Picture</string>
+    <string name="_4_select_a_model_based_on_your_preference">4. Select a model based on your preference</string>
+    <string name="fourth_picture">Fourth Picture</string>
+    <string name="_5_click_predict_button">5. Click Predict button</string>
+    <string name="_6_see_the_results_in_the_form_of_probabilities">6. See the results in the form of probabilities</string>
+    <string name="fifth_picture">Fifth Picture</string>
+
+    <string-array name="algorithms">
+        <item>VGG19</item>
+        <item>ResNet50</item>
+    </string-array>
+</resources>
